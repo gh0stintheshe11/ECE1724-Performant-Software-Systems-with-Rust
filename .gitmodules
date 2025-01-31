@@ -1,7 +1,3 @@
-[submodule "Reversi-Board-Game"]
-	path = Reversi-Board-Game
-	url = https://github.com/gh0stintheshe11/ECE-1724-Performant-Software-Systems-with-Rust.git
-	branch = Reversi-Board-Game
 [submodule "A1_Reversi-Board-Game"]
 	path = A1_Reversi-Board-Game
 	url = https://github.com/gh0stintheshe11/ECE-1724-Performant-Software-Systems-with-Rust.git
